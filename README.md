@@ -16,7 +16,7 @@ This **Real-Time Voice Assistant** is built with **Next.js**, featuring real-tim
 ## 📦 Tech Stack
 🚀 **Next.js** - The React framework  
 🗣️ **Web Speech API** - Voice recognition & synthesis  
-🤖 **Gemini AI API** - AI-driven response processing  
+🤖 **ElevenLabs API** - AI-driven response processing  
 🎨 **Tailwind CSS** - Sleek and responsive UI  
 
 ## 🚀 Installation & Setup
